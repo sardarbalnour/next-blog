@@ -1,2 +1,8 @@
 @import "tailwindcss";
 
+@layer base {
+  html {
+    scrollbar-gutter: stable;
+  }
+}
+/* baraye jelogiri az awaz sodan width vaqti ke scrollbar miad va mire */
